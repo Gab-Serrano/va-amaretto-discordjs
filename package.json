@@ -1,0 +1,22 @@
+{
+  "name": "va-amaretto-discordjs",
+  "version": "1.0.0",
+  "description": "Discord butler - Virtual assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gab-Serrano/va-amaretto-discordjs.git"
+  },
+  "keywords": [
+    "virtual-assistant"
+  ],
+  "author": "gabote.rar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gab-Serrano/va-amaretto-discordjs/issues"
+  },
+  "homepage": "https://github.com/Gab-Serrano/va-amaretto-discordjs#readme"
+}
