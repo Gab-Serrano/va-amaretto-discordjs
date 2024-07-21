@@ -1,4 +1,4 @@
-# Discord Assistant Bot 🤖
+# Amaretto-sama - Discord Assistant Bot 🤖
 
 A virtual assistant Discord bot designed to help with productivity and task management. The bot responds in both Spanish and Japanese, in text and voice formats.
 
