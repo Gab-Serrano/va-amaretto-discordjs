@@ -36,3 +36,6 @@ build
 
 # Global npm dependencies
 /node_modules
+
+#Others
+borrador.txt
