@@ -1,0 +1,10 @@
+- ⏰ Reminders
+- 🍅 Pomodoro Technique
+- 📝 Task Management
+- 🕒 Current Time Information
+- 🌤️ Weather Information
+- 🧮 Mathematical Calculations
+- 🗣️ Responses in Spanish and Japanese (text and voice)
+
+- MongoDB
+- VOICEVOX (for Japanese voice synthesis)

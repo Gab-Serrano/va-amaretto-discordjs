@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Gab-Serrano/va-amaretto-discordjs/issues"
   },
-  "homepage": "https://github.com/Gab-Serrano/va-amaretto-discordjs#readme"
+  "homepage": "https://github.com/Gab-Serrano/va-amaretto-discordjs#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0"
+  }
 }

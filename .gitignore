@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules
+
+# Build artifacts
+build
+
+# Development
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Misc
+*.class
+*.pyc
+*.DS_Store
+.sass-cache
+.env
+.env.local
+.env.*.local
+
+# Testing
+/coverage
+/.nyc_output
+
+# Global npm dependencies
+/node_modules
