@@ -39,3 +39,5 @@ build
 
 #Others
 borrador.txt
+.eslintrc.json
+src/config.json
